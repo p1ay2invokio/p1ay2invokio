@@ -31,8 +31,6 @@ Fullstack Developer
 
 <div width="100%" align="center"><a href="https://github.com/p1ay2invokio/stock-management" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p1ay2invokio&repo=stock-management&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/p1ay2invokio/Saving_money31Days" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p1ay2invokio&repo=Saving_money31Days&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/p1ay2invokio/20baht-stock-server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p1ay2invokio&repo=20baht-stock-server&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/p1ay2invokio/ATM-Program-For-Students" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p1ay2invokio&repo=ATM-Program-For-Students&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
