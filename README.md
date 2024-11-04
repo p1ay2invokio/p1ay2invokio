@@ -33,8 +33,6 @@ Fullstack Developer
 
 <div width="100%" align="center"><a href="https://github.com/p1ay2invokio/20baht-stock-server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p1ay2invokio&repo=20baht-stock-server&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/p1ay2invokio/ATM-Program-For-Students" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p1ay2invokio&repo=ATM-Program-For-Students&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 
-### Support Me
-
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/p1ay2.14"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
