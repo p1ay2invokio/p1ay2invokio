@@ -1,7 +1,6 @@
 # instagram: p1ay2.14
-==================================
 
-## Fullstack Developer
+Fullstack Developer
 
 * 🌍  I'm based in chiangmai, thailand
 * 🖥️  See my portfolio at [p1ay2-portfolio](http://p1ay2-portfolio.vercel.app/)
