@@ -29,11 +29,10 @@
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
 
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <br/>
+  
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
-
+<br/>
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
-
 
   <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
@@ -41,7 +40,6 @@
 
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
 
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo" />
