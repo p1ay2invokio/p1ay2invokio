@@ -20,38 +20,37 @@
 
 ###
 
+<div align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
+
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
+
+
+  <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
+
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo" />
+</div>
+
+###
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
+  <img src="https://raw.githubusercontent.com/p1ay2invokio/p1ay2invokio/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
