@@ -13,6 +13,12 @@
 ###
 
 <div align="center">
+  <img height="400" src="https://i.pinimg.com/736x/22/8d/3c/228d3c0ead8c61ec7414bdef225d1c23.jpg"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -50,7 +56,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=p1ay2invokio&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/p1ay2invokio/p1ay2invokio/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
