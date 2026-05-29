@@ -23,7 +23,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: radius=16&theme=minimal&area=true&hide_border=false&hide_title=false&point=fffff
+          options: radius=16&theme=tokyo-day&area=true&hide_border=false&hide_title=false&point=fffff
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
